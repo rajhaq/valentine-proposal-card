@@ -99,7 +99,7 @@ const ValentineCard: React.FC<ValentineCardProps> = ({ onAccept }) => {
                  mx-auto text-center"
     >
       <img
-        src="../media/zubaer-sahida.png"
+        src="./../media/zubaer-sahida.png"
         alt="Valentine"
         className="w-full object-cover rounded-xl mb-5 select-none"
       />
