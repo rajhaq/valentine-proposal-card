@@ -30,7 +30,7 @@ const Celebration: React.FC<CelebrationProps> = ({ onClose }) => {
 
         {/* same image proportions as ValentineCard */}
         <img
-          src="./../media/forever.png"
+          src="./media/forever.png"
           alt="Celebration"
           className="w-full object-cover rounded-xl mb-5 select-none"
         />
